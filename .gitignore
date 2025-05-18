@@ -11,3 +11,7 @@ web-build/
 # Metro
 metro-cache/
 .cache/
+
+# Expo Prebuild (CNG)
+android/
+ios/
